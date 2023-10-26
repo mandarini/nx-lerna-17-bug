@@ -6,6 +6,8 @@ Example, in `lerna.json` you have `"packages": ["libs/*"],`, then `--directory=l
 
 Error starts happening on Nx 17. Same lerna config works with Nx 16.10.
 
+This is a bare minimum reproduction, I generated this workspace with `npx create-nx-workspace@16.10.0 nx-lerna-libs`, then did `npx lerna init --packages="libs/*"`. Then I just migrated to latest version of Nx (`nx migrate latest`).
+
 ## Steps to reproduce
 
 1. Install dependencies `npm i`
