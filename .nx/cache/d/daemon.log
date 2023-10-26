@@ -1,0 +1,32 @@
+[NX Daemon Server] - 2023-10-26T10:54:28.985Z - Started listening on: /var/folders/1b/3z_nkx7x4lb6dt48ps60w1vw0000gn/T/e02cb22c5bcb23a1bc18/d.sock
+[NX Daemon Server] - 2023-10-26T10:54:28.985Z - [WATCHER]: Subscribed to changes within: /Users/fileas/Projects/nrwl/test-nx-workspaces/nx-lerna-libs (native)
+[NX Daemon Server] - 2023-10-26T10:54:28.986Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-10-26T10:54:28.986Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-10-26T10:54:28.987Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-10-26T10:54:28.987Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-10-26T10:54:29.008Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-10-26T10:54:29.008Z - [REQUEST]: 
+[NX Daemon Server] - 2023-10-26T10:54:29.008Z - [REQUEST]: 
+[NX Daemon Server] - 2023-10-26T10:54:29.061Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-10-26T10:54:29.062Z - Time taken for 'total for creating and serializing project graph' 73.58195799589157ms
+[NX Daemon Server] - 2023-10-26T10:54:29.063Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-10-26T10:54:29.063Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-10-26T10:54:29.063Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-10-26T10:54:29.063Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-10-26T10:54:29.063Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-10-26T10:54:29.064Z - Time taken for 'total for creating and serializing project graph' 0.13270798325538635ms
+[NX Daemon Server] - 2023-10-26T10:54:29.066Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-10-26T10:54:29.066Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2023-10-26T10:54:29.067Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-10-26T10:54:29.067Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 74. Response time: 6.
+[NX Daemon Server] - 2023-10-26T10:54:29.072Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-10-26T10:54:29.073Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-10-26T10:54:29.074Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-10-26T10:54:29.074Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-10-26T10:54:29.074Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-10-26T10:54:29.074Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-10-26T10:54:29.074Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-10-26T10:54:29.128Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-10-26T10:54:29.250Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-10-26T10:54:47.370Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-10-26T10:54:47.370Z - [WATCHER]: Stopping the watcher for /Users/fileas/Projects/nrwl/test-nx-workspaces/nx-lerna-libs (sources)
